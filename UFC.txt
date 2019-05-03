@@ -1,0 +1,16 @@
+Cadastro Lutador
+-Idade
+-Sexo
+-Peso
+-País de Origem
+*Categoria de Peso
+
+Visualizar todos lutadores Cadastrado
+
+Visuluazar cadastro por categoria
+
+Quantos kilos deve ganhar/perder para mudar de categoria
+
+
+CATEGORIA DE PESO
+-Visualizar no PDF
