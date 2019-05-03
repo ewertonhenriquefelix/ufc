@@ -2,7 +2,7 @@ Cadastro Lutador
 -Idade
 -Sexo
 -Peso
--País de Origem
+-PaÃ­s de Origem
 *Categoria de Peso
 
 Visualizar todos lutadores Cadastrado
@@ -14,3 +14,9 @@ Quantos kilos deve ganhar/perder para mudar de categoria
 
 CATEGORIA DE PESO
 -Visualizar no PDF
+
+
+Nome:Ewerton henrique Felix 171151291 
+Nome:Robson Faria 171151229
+Nome:Leandro hugo 171151223
+Nome:Kaique Moreira 171150990
